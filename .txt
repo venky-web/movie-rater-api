@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 SECRET_KEY=n^s#pa)x_m_v=4w#f&3w=2lt(!d1a5v$=3$)!f_6&!lmjkdax9
+=======
+SECRET_KEY=n^s#pa)x_m_v=4w#f&3w=2lt(!d1a5v$=3$)!f_6&!lmjkdax9
+>>>>>>> df3c27a53ba06f6b08f2b07de5ecb565aeae4285
 DEBUG=True
